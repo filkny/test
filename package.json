@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.276.0",
+    "@types/node": "^18.14.0",
+    "dotenv": "^16.0.3",
+    "enft": "^1.0.4",
+    "node-fetch": "^2.6.1"
+  },
+  "type": "module"
+}
